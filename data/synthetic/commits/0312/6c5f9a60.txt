@@ -1,0 +1,2 @@
+PR #312 | 6c5f9a606ccb | 2026-03-07T19:10:21Z
+commit 2 for PR #312: feat(gateway): support WebSocket proxying for real-time channels
