@@ -1,0 +1,2 @@
+PR #380 | 538a5cbc103d | 2026-04-10T16:50:22Z
+commit 2 for PR #380: chore(shared_utils): update serializers.py
