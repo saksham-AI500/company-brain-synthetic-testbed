@@ -1,0 +1,2 @@
+PR #468 | b2fb36509ab8 | 2026-05-25T18:20:19Z
+commit 3 for PR #468: fix(shared_utils): update serializers.py
