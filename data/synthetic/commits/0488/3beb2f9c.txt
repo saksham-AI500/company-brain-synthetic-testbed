@@ -1,0 +1,2 @@
+PR #488 | 3beb2f9c0076 | 2026-06-04T20:29:00Z
+commit 2 for PR #488: hotfix(billing): update currency conversion rate table
