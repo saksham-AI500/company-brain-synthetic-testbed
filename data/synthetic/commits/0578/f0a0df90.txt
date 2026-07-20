@@ -1,0 +1,2 @@
+PR #578 | f0a0df90bb73 | 2026-07-20T22:50:14Z
+commit 5 for PR #578: fix(search): update schema_indexer.py
