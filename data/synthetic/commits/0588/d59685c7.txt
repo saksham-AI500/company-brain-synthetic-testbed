@@ -1,0 +1,2 @@
+PR #588 | d59685c78eeb | 2026-07-24T23:42:26Z
+commit 3 for PR #588: test(auth_mfa): update fido_attestation.py
