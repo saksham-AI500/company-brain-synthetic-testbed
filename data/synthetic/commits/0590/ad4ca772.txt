@@ -1,0 +1,2 @@
+PR #590 | ad4ca772e42d | 2026-07-27T11:16:39Z
+commit 2 for PR #590: refactor(billing): clean up tax calculator interfaces
