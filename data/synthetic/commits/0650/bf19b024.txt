@@ -1,0 +1,2 @@
+PR #650 | bf19b02464c2 | 2026-08-25T20:40:30Z
+commit 3 for PR #650: perf(observability): optimize trace sampling rate under peak load
