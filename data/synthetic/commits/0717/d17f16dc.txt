@@ -1,0 +1,2 @@
+PR #717 | d17f16dc0bd6 | 2026-09-28T17:59:10Z
+commit 2 for PR #717: test(growth_experiments): update variant_allocator.py
