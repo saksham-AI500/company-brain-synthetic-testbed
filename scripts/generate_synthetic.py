@@ -141,6 +141,12 @@ def run_stage_2():
     files = build_all_files()
     print(f"Stage 2 complete: generated and compiled {len(files)} files.\n")
 
+def run_stage_3():
+    print("=== RUNNING STAGE 3: Pull Requests and Events ===")
+    from scripts.generate_prs import run as run_prs
+    prs = run_prs()
+    print(f"Stage 3 complete: generated {len(prs)} PRs and events stream.\n")
+
 if __name__ == "__main__":
     args = sys.argv[1:]
     if "--stage" in args:
@@ -150,8 +156,11 @@ if __name__ == "__main__":
             run_stage_1()
         elif stage == "2":
             run_stage_2()
+        elif stage == "3":
+            run_stage_3()
         else:
             print(f"Stage {stage} not yet implemented in standalone caller.")
     else:
         run_stage_1()
         run_stage_2()
+        run_stage_3()

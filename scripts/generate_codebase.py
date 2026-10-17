@@ -92,7 +92,6 @@ build/
 .pytest_cache/
 .coverage
 htmlcov/
-data/synthetic/fixtures/
 """,
         "Makefile": """.PHONY: test lint run clean
 
