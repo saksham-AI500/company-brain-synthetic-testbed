@@ -1,0 +1,13 @@
+{
+  "step": 3,
+  "description": "Removed reconcile_unsettled_batches() from payments/refunds/batch.py, making payment-pipeline-recovery.md stale",
+  "timestamp": "2026-10-18T04:50:05.099950",
+  "changes": [
+    {
+      "file": "payments/refunds/batch.py",
+      "removed_function": "reconcile_unsettled_batches",
+      "stale_document": "docs/runbooks/payment-pipeline-recovery.md"
+    }
+  ],
+  "idempotent": true
+}

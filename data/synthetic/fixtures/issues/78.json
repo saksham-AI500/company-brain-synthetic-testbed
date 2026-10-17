@@ -8,10 +8,10 @@
     "id": 21433,
     "type": "User"
   },
-  "state": "open",
+  "state": "closed",
   "created_at": "2025-12-20T13:20:48Z",
   "updated_at": "2025-12-20T13:20:48Z",
-  "closed_at": null,
+  "closed_at": "2026-09-25T14:00:00Z",
   "labels": [
     "feature",
     "auth",

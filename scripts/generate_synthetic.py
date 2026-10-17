@@ -165,6 +165,17 @@ def run_stage_6():
     gt = run_gt()
     print("Stage 6 complete: ground_truth.json written and verified.\n")
 
+def run_stage_7():
+    print("=== RUNNING STAGE 7: Change Script Validation ===")
+    from scripts.apply_changes import apply_step_1, apply_step_2, apply_step_3
+    s1 = apply_step_1()
+    s2 = apply_step_2()
+    s3 = apply_step_3()
+    assert os.path.exists(os.path.join("data", "synthetic", "changes", "step_1.json"))
+    assert os.path.exists(os.path.join("data", "synthetic", "changes", "step_2.json"))
+    assert os.path.exists(os.path.join("data", "synthetic", "changes", "step_3.json"))
+    print("Stage 7 complete: all change steps executed idempotently.\n")
+
 if __name__ == "__main__":
     args = sys.argv[1:]
     if "--stage" in args:
@@ -182,6 +193,8 @@ if __name__ == "__main__":
             run_stage_5()
         elif stage == "6":
             run_stage_6()
+        elif stage == "7":
+            run_stage_7()
         else:
             print(f"Stage {stage} not yet implemented in standalone caller.")
     else:
@@ -191,3 +204,4 @@ if __name__ == "__main__":
         run_stage_4()
         run_stage_5()
         run_stage_6()
+        run_stage_7()
