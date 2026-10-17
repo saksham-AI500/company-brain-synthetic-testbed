@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "dataset_name": "Acme Platform Inc. Synthetic Dataset",
+    "seed": 20260930,
+    "generated_at": "2026-10-18T04:55:59.536339",
+    "target_repository": "https://github.com/saksham-AI500/company-brain-synthetic-testbed",
+    "tier_reached": "Tier 1: Full Scale"
+  },
+  "dataset_sha256": "a221cb67d0c64344d8aae878fa2f7a60a39dc400b954c6ba324e6aabaeb46e41",
+  "entity_counts": {
+    "people": 56,
+    "teams": 4,
+    "modules": 14,
+    "pull_requests": 720,
+    "commits": 2578,
+    "issues": 350,
+    "review_comments": 3823,
+    "issue_comments": 1434,
+    "documents": 45,
+    "events": 3103,
+    "ground_truth_questions": 20,
+    "ground_truth_scenarios": 8,
+    "distractors": 22
+  },
+  "validation_summary": {
+    "all_checks_passed": true,
+    "failed_checks": []
+  }
+}

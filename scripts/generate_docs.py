@@ -462,7 +462,7 @@ Covers transition of [auth/session.py](../../auth/session.py) and integration wi
 Track progress in open issue #78.
 """,
 
-        "style-guide.md": """# Python Style Guide
+        "contributing/style-guide.md": """# Python Style Guide
 
 We follow PEP 8 with line length 120.
 Updated in PR #108 (note: PR #108 is a false link for checkout bug #42).
