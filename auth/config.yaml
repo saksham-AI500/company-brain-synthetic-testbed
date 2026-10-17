@@ -1,0 +1,4 @@
+auth:
+  token_expiry_seconds: 3600
+  refresh_expiry_days: 30
+  issuer: acme-platform-auth

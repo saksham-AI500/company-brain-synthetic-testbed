@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "acme-platform"
+version = "1.8.0"
+description = "Acme Platform core backend, services, and infrastructure"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "Acme Platform Team", email = "engineering@example.com" }]
+dependencies = [
+    "pydantic>=2.0",
+    "fastapi>=0.100.0",
+    "uvicorn>=0.22.0",
+    "pyyaml>=6.0",
+    "cryptography>=41.0.0",
+    "httpx>=0.24.0",
+    "redis>=4.5.0",
+    "opentelemetry-api>=1.20.0",
+    "opentelemetry-sdk>=1.20.0"
+]

@@ -1,0 +1,4 @@
+payments:
+  default_currency: USD
+  max_retry_attempts: 3
+  connect_timeout_ms: 5000

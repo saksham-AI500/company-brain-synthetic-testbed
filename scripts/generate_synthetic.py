@@ -135,6 +135,12 @@ def run_stage_1():
     assert len(plan["codeowners_rules"]) >= 25, "Expected >=25 CODEOWNERS rules"
     print("Stage 1 validation checks PASSED successfully!\n")
 
+def run_stage_2():
+    print("=== RUNNING STAGE 2: Modules and Files ===")
+    from scripts.generate_codebase import build_all_files
+    files = build_all_files()
+    print(f"Stage 2 complete: generated and compiled {len(files)} files.\n")
+
 if __name__ == "__main__":
     args = sys.argv[1:]
     if "--stage" in args:
@@ -142,7 +148,10 @@ if __name__ == "__main__":
         stage = args[idx + 1]
         if stage == "1":
             run_stage_1()
+        elif stage == "2":
+            run_stage_2()
         else:
             print(f"Stage {stage} not yet implemented in standalone caller.")
     else:
         run_stage_1()
+        run_stage_2()

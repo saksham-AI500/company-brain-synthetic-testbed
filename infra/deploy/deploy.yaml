@@ -1,0 +1,4 @@
+deploy:
+  environment: production
+  replicas: 12
+  cluster: us-east-prod-k8s

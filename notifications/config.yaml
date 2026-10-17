@@ -1,0 +1,3 @@
+notifications:
+  rate_limit_per_user_hour: 20
+  retry_backoff: exponential
