@@ -1,0 +1,23 @@
+{
+  "step": 1,
+  "description": "Reassign search/ ownership in CODEOWNERS from @acme/growth to @acme/platform",
+  "timestamp": "2026-10-18T04:49:26.250911",
+  "changes": [
+    {
+      "file": "CODEOWNERS",
+      "pattern": "search/",
+      "old_owners": [
+        "@acme/growth"
+      ],
+      "new_owners": [
+        "@acme/platform"
+      ]
+    }
+  ],
+  "modified_files": [
+    "CODEOWNERS",
+    ".github\\CODEOWNERS",
+    "data\\synthetic\\fixtures\\codeowners.txt"
+  ],
+  "idempotent": true
+}

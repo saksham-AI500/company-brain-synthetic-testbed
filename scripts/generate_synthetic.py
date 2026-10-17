@@ -159,6 +159,12 @@ def run_stage_5():
     docs = run_docs()
     print(f"Stage 5 complete: generated {len(docs)} markdown documents.\n")
 
+def run_stage_6():
+    print("=== RUNNING STAGE 6: Planted Facts, Scenarios, and Ground Truth ===")
+    from scripts.generate_ground_truth import run as run_gt
+    gt = run_gt()
+    print("Stage 6 complete: ground_truth.json written and verified.\n")
+
 if __name__ == "__main__":
     args = sys.argv[1:]
     if "--stage" in args:
@@ -174,6 +180,8 @@ if __name__ == "__main__":
             run_stage_4()
         elif stage == "5":
             run_stage_5()
+        elif stage == "6":
+            run_stage_6()
         else:
             print(f"Stage {stage} not yet implemented in standalone caller.")
     else:
@@ -182,3 +190,4 @@ if __name__ == "__main__":
         run_stage_3()
         run_stage_4()
         run_stage_5()
+        run_stage_6()
