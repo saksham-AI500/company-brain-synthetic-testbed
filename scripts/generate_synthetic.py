@@ -176,6 +176,13 @@ def run_stage_7():
     assert os.path.exists(os.path.join("data", "synthetic", "changes", "step_3.json"))
     print("Stage 7 complete: all change steps executed idempotently.\n")
 
+def run_stage_8():
+    print("=== RUNNING STAGE 8: Ingestion Test Suite ===")
+    import pytest
+    ret = pytest.main(["tests/test_synthetic_fixtures.py", "-q"])
+    assert ret == 0, f"Ingestion test suite failed with exit code {ret}"
+    print("Stage 8 complete: fixture reader tests passed with 100% parity.\n")
+
 if __name__ == "__main__":
     args = sys.argv[1:]
     if "--stage" in args:
@@ -195,6 +202,8 @@ if __name__ == "__main__":
             run_stage_6()
         elif stage == "7":
             run_stage_7()
+        elif stage == "8":
+            run_stage_8()
         else:
             print(f"Stage {stage} not yet implemented in standalone caller.")
     else:
@@ -205,3 +214,4 @@ if __name__ == "__main__":
         run_stage_5()
         run_stage_6()
         run_stage_7()
+        run_stage_8()
