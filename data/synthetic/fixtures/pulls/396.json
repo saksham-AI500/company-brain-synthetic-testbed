@@ -3,7 +3,7 @@
   "number": 396,
   "state": "closed",
   "title": "chore(shared_utils): update crypto_utils.py",
-  "body": "Implementation changes for shared_utils module improvements.",
+  "body": "Implementation changes for shared_utils module improvements.\n\nFixes #33",
   "user": {
     "login": "emma-lindqvist",
     "id": 26354,

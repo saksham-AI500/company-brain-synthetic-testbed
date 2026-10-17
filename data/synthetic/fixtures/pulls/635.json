@@ -3,7 +3,7 @@
   "number": 635,
   "state": "closed",
   "title": "fix(infra_deploy): update secrets_loader.cpython-314.pyc",
-  "body": "Implementation changes for infra_deploy module improvements.",
+  "body": "Implementation changes for infra_deploy module improvements.\n\nCloses #44",
   "user": {
     "login": "leo-dupont",
     "id": 28165,

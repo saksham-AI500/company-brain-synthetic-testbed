@@ -3,7 +3,7 @@
   "number": 467,
   "state": "closed",
   "title": "fix(payments): update tax_service.cpython-314.pyc",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nCloses #106",
   "user": {
     "login": "ingrid-berg",
     "id": 28152,

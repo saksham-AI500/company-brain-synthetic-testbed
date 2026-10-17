@@ -3,7 +3,7 @@
   "number": 495,
   "state": "closed",
   "title": "docs(growth_experiments): update segmentation.cpython-314.pyc",
-  "body": "Implementation changes for growth_experiments module improvements.",
+  "body": "Implementation changes for growth_experiments module improvements.\n\nCloses #50",
   "user": {
     "login": "hugo-leclerc",
     "id": 22778,

@@ -3,7 +3,7 @@
   "number": 232,
   "state": "closed",
   "title": "docs(billing): update usage_meter.cpython-314.pyc",
-  "body": "Implementation changes for billing module improvements.",
+  "body": "Implementation changes for billing module improvements.\n\nFixes #40",
   "user": {
     "login": "arjun-mehta",
     "id": 24836,

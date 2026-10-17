@@ -3,7 +3,7 @@
   "number": 640,
   "state": "closed",
   "title": "docs(billing): update enterprise pricing tier documentation",
-  "body": "Update plan descriptions in billing README.",
+  "body": "Update plan descriptions in billing README.\n\nFixes #80",
   "user": {
     "login": "chloe-bennett",
     "id": 28687,

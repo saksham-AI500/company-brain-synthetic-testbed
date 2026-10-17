@@ -3,7 +3,7 @@
   "number": 431,
   "state": "closed",
   "title": "test(shared_utils): update serializers.py",
-  "body": "Implementation changes for shared_utils module improvements.",
+  "body": "Implementation changes for shared_utils module improvements.\n\nCloses #111",
   "user": {
     "login": "gabriel-santos",
     "id": 29760,

@@ -3,7 +3,7 @@
   "number": 504,
   "state": "closed",
   "title": "perf(payments): update settlements.py",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nFixes #3",
   "user": {
     "login": "aiden-cross",
     "id": 21622,

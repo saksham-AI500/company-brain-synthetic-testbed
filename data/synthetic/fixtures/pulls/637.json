@@ -3,7 +3,7 @@
   "number": 637,
   "state": "closed",
   "title": "chore(growth_experiments): update guardrail_metrics.cpython-314.pyc",
-  "body": "Implementation changes for growth_experiments module improvements.",
+  "body": "Implementation changes for growth_experiments module improvements.\n\nCloses #70",
   "user": {
     "login": "leila-farah",
     "id": 23219,

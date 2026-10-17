@@ -3,7 +3,7 @@
   "number": 338,
   "state": "closed",
   "title": "perf(shared_utils): update README.md",
-  "body": "Implementation changes for shared_utils module improvements.",
+  "body": "Implementation changes for shared_utils module improvements.\n\nFixes #113",
   "user": {
     "login": "maya-lin",
     "id": 25395,

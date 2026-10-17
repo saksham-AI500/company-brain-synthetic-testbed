@@ -3,7 +3,7 @@
   "number": 435,
   "state": "closed",
   "title": "refactor(auth): update sms_gateway.cpython-314.pyc",
-  "body": "Implementation changes for auth module improvements.",
+  "body": "Implementation changes for auth module improvements.\n\nCloses #128",
   "user": {
     "login": "sophia-rossi",
     "id": 24294,

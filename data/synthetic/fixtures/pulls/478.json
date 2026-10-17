@@ -3,7 +3,7 @@
   "number": 478,
   "state": "closed",
   "title": "perf(shared_utils): update env_reader.cpython-314.pyc",
-  "body": "Implementation changes for shared_utils module improvements.",
+  "body": "Implementation changes for shared_utils module improvements.\n\nFixes #125",
   "user": {
     "login": "zane-malik",
     "id": 26937,

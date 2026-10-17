@@ -3,7 +3,7 @@
   "number": 211,
   "state": "closed",
   "title": "feat(payments): update audit_refunds.cpython-314.pyc",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nCloses #48",
   "user": {
     "login": "fiona-gallagher",
     "id": 21807,

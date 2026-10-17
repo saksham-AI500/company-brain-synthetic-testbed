@@ -3,7 +3,7 @@
   "number": 179,
   "state": "closed",
   "title": "feat(api_gateway): update canary_router.py",
-  "body": "Implementation changes for api_gateway module improvements.",
+  "body": "Implementation changes for api_gateway module improvements.\n\nCloses #23",
   "user": {
     "login": "priya-sharma",
     "id": 25922,

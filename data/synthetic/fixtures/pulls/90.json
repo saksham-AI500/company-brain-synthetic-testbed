@@ -3,7 +3,7 @@
   "number": 90,
   "state": "closed",
   "title": "test(billing): update payment_method.py",
-  "body": "Implementation changes for billing module improvements.",
+  "body": "Implementation changes for billing module improvements.\n\nFixes #138",
   "user": {
     "login": "gabriel-santos",
     "id": 29760,

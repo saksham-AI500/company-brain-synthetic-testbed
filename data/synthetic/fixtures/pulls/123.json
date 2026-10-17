@@ -3,7 +3,7 @@
   "number": 123,
   "state": "closed",
   "title": "perf(payments_refunds): update errors.cpython-314.pyc",
-  "body": "Implementation changes for payments_refunds module improvements.",
+  "body": "Implementation changes for payments_refunds module improvements.\n\nCloses #117",
   "user": {
     "login": "yuki-tanaka",
     "id": 25801,

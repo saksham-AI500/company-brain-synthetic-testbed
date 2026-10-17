@@ -3,7 +3,7 @@
   "number": 222,
   "state": "closed",
   "title": "test(billing): update statement.cpython-314.pyc",
-  "body": "Implementation changes for billing module improvements.",
+  "body": "Implementation changes for billing module improvements.\n\nFixes #37",
   "user": {
     "login": "nora-al-mansoor",
     "id": 22304,

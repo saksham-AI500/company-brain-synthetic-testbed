@@ -3,7 +3,7 @@
   "number": 136,
   "state": "closed",
   "title": "chore(auth): update middleware.py",
-  "body": "Implementation changes for auth module improvements.",
+  "body": "Implementation changes for auth module improvements.\n\nFixes #69",
   "user": {
     "login": "zoe-kravitz",
     "id": 22925,

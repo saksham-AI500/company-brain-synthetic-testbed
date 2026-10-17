@@ -3,7 +3,7 @@
   "number": 501,
   "state": "open",
   "title": "perf(auth): update middleware.py",
-  "body": "Implementation changes for auth module improvements.",
+  "body": "Implementation changes for auth module improvements.\n\nCloses #49",
   "user": {
     "login": "clara-oswald",
     "id": 20590,

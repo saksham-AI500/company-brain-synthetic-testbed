@@ -3,7 +3,7 @@
   "number": 594,
   "state": "closed",
   "title": "feat(billing): update dunning.cpython-314.pyc",
-  "body": "Implementation changes for billing module improvements.",
+  "body": "Implementation changes for billing module improvements.\n\nFixes #10",
   "user": {
     "login": "tanya-popova",
     "id": 22022,

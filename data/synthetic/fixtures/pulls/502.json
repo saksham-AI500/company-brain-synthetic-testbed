@@ -3,7 +3,7 @@
   "number": 502,
   "state": "open",
   "title": "feat(payments): update rules_engine.cpython-314.pyc",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nFixes #56",
   "user": {
     "login": "kai-nielsen",
     "id": 23622,

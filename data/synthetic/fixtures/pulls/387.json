@@ -3,7 +3,7 @@
   "number": 387,
   "state": "closed",
   "title": "perf(payments): update metrics_payments.py",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nCloses #91",
   "user": {
     "login": "ananya-rao",
     "id": 22649,

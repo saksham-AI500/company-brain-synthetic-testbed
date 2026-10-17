@@ -3,7 +3,7 @@
   "number": 341,
   "state": "closed",
   "title": "fix(search_indexer): update crawler.cpython-314.pyc",
-  "body": "Implementation changes for search_indexer module improvements.",
+  "body": "Implementation changes for search_indexer module improvements.\n\nCloses #68",
   "user": {
     "login": "rachel-green-fictional",
     "id": 22722,

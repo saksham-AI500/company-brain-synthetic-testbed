@@ -3,7 +3,7 @@
   "number": 601,
   "state": "closed",
   "title": "chore(deps): bump cryptography from 41.0.4 to 41.0.7",
-  "body": "Automated dependency security patch upgrade.",
+  "body": "Automated dependency security patch upgrade.\n\nCloses #85",
   "user": {
     "login": "kevin-malone",
     "id": 24627,

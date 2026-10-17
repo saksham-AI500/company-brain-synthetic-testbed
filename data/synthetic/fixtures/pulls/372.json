@@ -3,7 +3,7 @@
   "number": 372,
   "state": "closed",
   "title": "docs(auth): update backup_codes.py",
-  "body": "Implementation changes for auth module improvements.",
+  "body": "Implementation changes for auth module improvements.\n\nFixes #15",
   "user": {
     "login": "kevin-malone",
     "id": 24627,

@@ -3,7 +3,7 @@
   "number": 470,
   "state": "closed",
   "title": "test(api_gateway): update load_balancer.cpython-314.pyc",
-  "body": "Implementation changes for api_gateway module improvements.",
+  "body": "Implementation changes for api_gateway module improvements.\n\nFixes #77",
   "user": {
     "login": "lucia-moretti",
     "id": 24125,

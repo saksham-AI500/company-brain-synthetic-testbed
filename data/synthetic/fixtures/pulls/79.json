@@ -3,7 +3,7 @@
   "number": 79,
   "state": "closed",
   "title": "refactor(payments): update __init__.cpython-314.pyc",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nCloses #107",
   "user": {
     "login": "arjun-mehta",
     "id": 24836,

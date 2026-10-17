@@ -3,7 +3,7 @@
   "number": 441,
   "state": "closed",
   "title": "feat(search_indexer): update index_stats.cpython-314.pyc",
-  "body": "Implementation changes for search_indexer module improvements.",
+  "body": "Implementation changes for search_indexer module improvements.\n\nCloses #126",
   "user": {
     "login": "rachel-green-fictional",
     "id": 22722,

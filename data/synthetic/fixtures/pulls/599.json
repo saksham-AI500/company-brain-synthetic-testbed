@@ -3,7 +3,7 @@
   "number": 599,
   "state": "closed",
   "title": "chore(auth_mfa): update sms_gateway.py",
-  "body": "Implementation changes for auth_mfa module improvements.",
+  "body": "Implementation changes for auth_mfa module improvements.\n\nCloses #109",
   "user": {
     "login": "liam-chen",
     "id": 25032,

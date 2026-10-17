@@ -3,7 +3,7 @@
   "number": 420,
   "state": "closed",
   "title": "perf(auth): optimize token verification cache",
-  "body": "Introduce LRU cache for decoded JWT signatures to reduce CPU load.",
+  "body": "Introduce LRU cache for decoded JWT signatures to reduce CPU load.\n\nFixes #53",
   "user": {
     "login": "gabriel-santos",
     "id": 29760,

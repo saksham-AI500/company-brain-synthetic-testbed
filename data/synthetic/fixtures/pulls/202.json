@@ -3,7 +3,7 @@
   "number": 202,
   "state": "closed",
   "title": "perf(notifications): update audit_notif.py",
-  "body": "Implementation changes for notifications module improvements.",
+  "body": "Implementation changes for notifications module improvements.\n\nFixes #24",
   "user": {
     "login": "mila-jovanovic",
     "id": 20363,

@@ -3,7 +3,7 @@
   "number": 605,
   "state": "closed",
   "title": "docs(payments_refunds): update rules_engine.cpython-314.pyc",
-  "body": "Implementation changes for payments_refunds module improvements.",
+  "body": "Implementation changes for payments_refunds module improvements.\n\nCloses #136",
   "user": {
     "login": "hassan-el-sayed",
     "id": 29279,

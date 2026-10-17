@@ -3,7 +3,7 @@
   "number": 525,
   "state": "closed",
   "title": "chore(notifications): update inbox.py",
-  "body": "Implementation changes for notifications module improvements.",
+  "body": "Implementation changes for notifications module improvements.\n\nCloses #131",
   "user": {
     "login": "maya-zheng",
     "id": 21324,

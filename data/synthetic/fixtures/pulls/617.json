@@ -3,7 +3,7 @@
   "number": 617,
   "state": "closed",
   "title": "docs(search_indexer): update deduplication.cpython-314.pyc",
-  "body": "Implementation changes for search_indexer module improvements.",
+  "body": "Implementation changes for search_indexer module improvements.\n\nCloses #87",
   "user": {
     "login": "lucia-moretti",
     "id": 24125,

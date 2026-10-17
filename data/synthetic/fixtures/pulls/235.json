@@ -3,7 +3,7 @@
   "number": 235,
   "state": "open",
   "title": "perf(growth_referrals): update audit_referrals.cpython-314.pyc",
-  "body": "Implementation changes for growth_referrals module improvements.",
+  "body": "Implementation changes for growth_referrals module improvements.\n\nCloses #100",
   "user": {
     "login": "dmitri-volkov",
     "id": 21585,

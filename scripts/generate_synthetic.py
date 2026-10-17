@@ -147,6 +147,12 @@ def run_stage_3():
     prs = run_prs()
     print(f"Stage 3 complete: generated {len(prs)} PRs and events stream.\n")
 
+def run_stage_4():
+    print("=== RUNNING STAGE 4: Issues and Comments ===")
+    from scripts.generate_issues import run as run_issues
+    issues = run_issues()
+    print(f"Stage 4 complete: generated {len(issues)} issues with comments and links.\n")
+
 if __name__ == "__main__":
     args = sys.argv[1:]
     if "--stage" in args:
@@ -158,9 +164,12 @@ if __name__ == "__main__":
             run_stage_2()
         elif stage == "3":
             run_stage_3()
+        elif stage == "4":
+            run_stage_4()
         else:
             print(f"Stage {stage} not yet implemented in standalone caller.")
     else:
         run_stage_1()
         run_stage_2()
         run_stage_3()
+        run_stage_4()

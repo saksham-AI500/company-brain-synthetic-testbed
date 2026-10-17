@@ -3,7 +3,7 @@
   "number": 533,
   "state": "closed",
   "title": "feat(auth_mfa): update totp.py",
-  "body": "Implementation changes for auth_mfa module improvements.",
+  "body": "Implementation changes for auth_mfa module improvements.\n\nCloses #112",
   "user": {
     "login": "fatima-zahra",
     "id": 21622,

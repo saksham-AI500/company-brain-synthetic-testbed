@@ -3,7 +3,7 @@
   "number": 536,
   "state": "closed",
   "title": "fix(search_indexer): update schema_indexer.cpython-314.pyc",
-  "body": "Implementation changes for search_indexer module improvements.",
+  "body": "Implementation changes for search_indexer module improvements.\n\nFixes #54",
   "user": {
     "login": "isabella-martinez",
     "id": 22261,

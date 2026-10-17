@@ -3,7 +3,7 @@
   "number": 575,
   "state": "closed",
   "title": "chore(billing): update plans.cpython-314.pyc",
-  "body": "Implementation changes for billing module improvements.",
+  "body": "Implementation changes for billing module improvements.\n\nCloses #133",
   "user": {
     "login": "kevin-malone",
     "id": 24627,

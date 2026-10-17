@@ -3,7 +3,7 @@
   "number": 620,
   "state": "closed",
   "title": "test(infra_deploy): update smoke_test.cpython-314.pyc",
-  "body": "Implementation changes for infra_deploy module improvements.",
+  "body": "Implementation changes for infra_deploy module improvements.\n\nFixes #140",
   "user": {
     "login": "sophia-rossi",
     "id": 24294,

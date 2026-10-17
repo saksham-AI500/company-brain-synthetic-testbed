@@ -3,7 +3,7 @@
   "number": 139,
   "state": "closed",
   "title": "test(auth): update backup_codes.py",
-  "body": "Implementation changes for auth module improvements.",
+  "body": "Implementation changes for auth module improvements.\n\nCloses #79",
   "user": {
     "login": "mila-jovanovic",
     "id": 20363,

@@ -3,7 +3,7 @@
   "number": 59,
   "state": "closed",
   "title": "test(payments_refunds): update disputes.cpython-314.pyc",
-  "body": "Implementation changes for payments_refunds module improvements.",
+  "body": "Implementation changes for payments_refunds module improvements.\n\nCloses #20",
   "user": {
     "login": "ingrid-berg",
     "id": 28152,

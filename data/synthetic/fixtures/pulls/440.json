@@ -3,7 +3,7 @@
   "number": 440,
   "state": "closed",
   "title": "chore(search_indexer): update pipeline.cpython-314.pyc",
-  "body": "Implementation changes for search_indexer module improvements.",
+  "body": "Implementation changes for search_indexer module improvements.\n\nFixes #26",
   "user": {
     "login": "ethan-hunt",
     "id": 29870,

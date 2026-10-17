@@ -3,7 +3,7 @@
   "number": 614,
   "state": "closed",
   "title": "refactor(payments): update processor.cpython-314.pyc",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nFixes #28",
   "user": {
     "login": "jordan-hayes",
     "id": 24658,

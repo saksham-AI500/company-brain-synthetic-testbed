@@ -3,7 +3,7 @@
   "number": 196,
   "state": "closed",
   "title": "feat(billing): update tax_exemption.py",
-  "body": "Implementation changes for billing module improvements.",
+  "body": "Implementation changes for billing module improvements.\n\nFixes #47",
   "user": {
     "login": "aiden-cross",
     "id": 21622,

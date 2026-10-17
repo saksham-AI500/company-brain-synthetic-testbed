@@ -3,7 +3,7 @@
   "number": 503,
   "state": "closed",
   "title": "chore(api_gateway): update canary_router.py",
-  "body": "Implementation changes for api_gateway module improvements.",
+  "body": "Implementation changes for api_gateway module improvements.\n\nCloses #139",
   "user": {
     "login": "leila-farah",
     "id": 23219,

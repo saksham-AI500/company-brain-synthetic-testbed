@@ -3,7 +3,7 @@
   "number": 523,
   "state": "closed",
   "title": "feat(notifications): update sms_service.py",
-  "body": "Implementation changes for notifications module improvements.",
+  "body": "Implementation changes for notifications module improvements.\n\nCloses #39",
   "user": {
     "login": "lina-kostas",
     "id": 26656,

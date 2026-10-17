@@ -3,7 +3,7 @@
   "number": 429,
   "state": "closed",
   "title": "feat(search_indexer): update backpressure.cpython-314.pyc",
-  "body": "Implementation changes for search_indexer module improvements.",
+  "body": "Implementation changes for search_indexer module improvements.\n\nCloses #101",
   "user": {
     "login": "rachel-green-fictional",
     "id": 22722,

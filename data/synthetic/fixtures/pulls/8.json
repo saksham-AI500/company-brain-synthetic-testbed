@@ -3,7 +3,7 @@
   "number": 8,
   "state": "closed",
   "title": "perf(api_gateway): update error_handler.py",
-  "body": "Implementation changes for api_gateway module improvements.",
+  "body": "Implementation changes for api_gateway module improvements.\n\nFixes #83",
   "user": {
     "login": "raj-kulkarni",
     "id": 28645,

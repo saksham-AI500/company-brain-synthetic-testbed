@@ -3,7 +3,7 @@
   "number": 498,
   "state": "closed",
   "title": "feat(infra_deploy): update rollback.cpython-314.pyc",
-  "body": "Implementation changes for infra_deploy module improvements.",
+  "body": "Implementation changes for infra_deploy module improvements.\n\nFixes #67",
   "user": {
     "login": "yuki-tanaka",
     "id": 25801,

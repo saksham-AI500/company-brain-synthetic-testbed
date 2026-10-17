@@ -3,7 +3,7 @@
   "number": 559,
   "state": "closed",
   "title": "docs(search_indexer): update compaction.cpython-314.pyc",
-  "body": "Implementation changes for search_indexer module improvements.",
+  "body": "Implementation changes for search_indexer module improvements.\n\nCloses #81",
   "user": {
     "login": "mateo-silva",
     "id": 23467,

@@ -3,7 +3,7 @@
   "number": 623,
   "state": "open",
   "title": "perf(search): update autocomplete.py",
-  "body": "Implementation changes for search module improvements.",
+  "body": "Implementation changes for search module improvements.\n\nCloses #59",
   "user": {
     "login": "sophia-rossi",
     "id": 24294,

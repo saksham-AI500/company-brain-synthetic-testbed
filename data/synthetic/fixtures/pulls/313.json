@@ -3,7 +3,7 @@
   "number": 313,
   "state": "closed",
   "title": "test(infra_observability): update pagerduty.py",
-  "body": "Implementation changes for infra_observability module improvements.",
+  "body": "Implementation changes for infra_observability module improvements.\n\nCloses #75",
   "user": {
     "login": "liam-chen",
     "id": 25032,

@@ -3,7 +3,7 @@
   "number": 465,
   "state": "closed",
   "title": "test(api_gateway): update error_handler.cpython-314.pyc",
-  "body": "Implementation changes for api_gateway module improvements.",
+  "body": "Implementation changes for api_gateway module improvements.\n\nCloses #51",
   "user": {
     "login": "maya-lin",
     "id": 25395,

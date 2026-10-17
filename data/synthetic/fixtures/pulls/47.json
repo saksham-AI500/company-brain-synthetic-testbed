@@ -3,7 +3,7 @@
   "number": 47,
   "state": "closed",
   "title": "perf(payments_refunds): update audit_refunds.py",
-  "body": "Implementation changes for payments_refunds module improvements.",
+  "body": "Implementation changes for payments_refunds module improvements.\n\nCloses #110",
   "user": {
     "login": "olivia-taylor",
     "id": 26814,

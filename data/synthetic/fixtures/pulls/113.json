@@ -3,7 +3,7 @@
   "number": 113,
   "state": "closed",
   "title": "fix(payments): update checkout.py",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nCloses #52",
   "user": {
     "login": "ananya-rao",
     "id": 22649,

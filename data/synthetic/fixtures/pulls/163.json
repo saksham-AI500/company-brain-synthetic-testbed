@@ -3,7 +3,7 @@
   "number": 163,
   "state": "closed",
   "title": "refactor(infra_observability): update synthetics.py",
-  "body": "Implementation changes for infra_observability module improvements.",
+  "body": "Implementation changes for infra_observability module improvements.\n\nCloses #22",
   "user": {
     "login": "felix-baum",
     "id": 28109,

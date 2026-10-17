@@ -3,7 +3,7 @@
   "number": 29,
   "state": "closed",
   "title": "refactor(growth_experiments): update README.md",
-  "body": "Implementation changes for growth_experiments module improvements.",
+  "body": "Implementation changes for growth_experiments module improvements.\n\nCloses #76",
   "user": {
     "login": "elena-rostova",
     "id": 20495,

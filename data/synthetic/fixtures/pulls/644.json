@@ -3,7 +3,7 @@
   "number": 644,
   "state": "closed",
   "title": "docs(search_indexer): update inverted_index.cpython-314.pyc",
-  "body": "Implementation changes for search_indexer module improvements.",
+  "body": "Implementation changes for search_indexer module improvements.\n\nFixes #124",
   "user": {
     "login": "owen-murphy",
     "id": 29839,

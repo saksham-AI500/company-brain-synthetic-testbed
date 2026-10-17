@@ -3,7 +3,7 @@
   "number": 38,
   "state": "closed",
   "title": "chore(billing): update dunning.py",
-  "body": "Implementation changes for billing module improvements.",
+  "body": "Implementation changes for billing module improvements.\n\nFixes #64",
   "user": {
     "login": "marcus-vance",
     "id": 24572,

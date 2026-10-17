@@ -3,7 +3,7 @@
   "number": 453,
   "state": "closed",
   "title": "feat(shared_utils): update exceptions.cpython-314.pyc",
-  "body": "Implementation changes for shared_utils module improvements.",
+  "body": "Implementation changes for shared_utils module improvements.\n\nCloses #38",
   "user": {
     "login": "nora-al-mansoor",
     "id": 22304,

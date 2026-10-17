@@ -3,7 +3,7 @@
   "number": 616,
   "state": "closed",
   "title": "docs(auth_mfa): update audit_mfa.py",
-  "body": "Implementation changes for auth_mfa module improvements.",
+  "body": "Implementation changes for auth_mfa module improvements.\n\nFixes #114",
   "user": {
     "login": "arjun-mehta",
     "id": 24836,

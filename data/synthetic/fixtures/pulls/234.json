@@ -3,7 +3,7 @@
   "number": 234,
   "state": "closed",
   "title": "refactor(payments): update metrics_payments.py",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nFixes #18",
   "user": {
     "login": "ben-carter",
     "id": 29818,

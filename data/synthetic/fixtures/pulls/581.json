@@ -3,7 +3,7 @@
   "number": 581,
   "state": "closed",
   "title": "chore(notifications): update batch_sender.py",
-  "body": "Implementation changes for notifications module improvements.",
+  "body": "Implementation changes for notifications module improvements.\n\nCloses #45",
   "user": {
     "login": "lina-kostas",
     "id": 26656,

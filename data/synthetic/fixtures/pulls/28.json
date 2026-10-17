@@ -3,7 +3,7 @@
   "number": 28,
   "state": "closed",
   "title": "fix(search_indexer): update cdc_listener.py",
-  "body": "Implementation changes for search_indexer module improvements.",
+  "body": "Implementation changes for search_indexer module improvements.\n\nFixes #93",
   "user": {
     "login": "maya-zheng",
     "id": 21324,

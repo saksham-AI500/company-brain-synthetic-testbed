@@ -3,7 +3,7 @@
   "number": 586,
   "state": "closed",
   "title": "feat(search_indexer): update deduplication.py",
-  "body": "Implementation changes for search_indexer module improvements.",
+  "body": "Implementation changes for search_indexer module improvements.\n\nFixes #12",
   "user": {
     "login": "diego-ramirez",
     "id": 27791,

@@ -3,7 +3,7 @@
   "number": 247,
   "state": "closed",
   "title": "feat(auth_mfa): update device_fingerprint.py",
-  "body": "Implementation changes for auth_mfa module improvements.",
+  "body": "Implementation changes for auth_mfa module improvements.\n\nCloses #16",
   "user": {
     "login": "olivia-taylor",
     "id": 26814,

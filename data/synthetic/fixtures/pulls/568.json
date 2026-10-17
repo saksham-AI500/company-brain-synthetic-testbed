@@ -3,7 +3,7 @@
   "number": 568,
   "state": "closed",
   "title": "fix(auth): update mfa_errors.cpython-314.pyc",
-  "body": "Implementation changes for auth module improvements.",
+  "body": "Implementation changes for auth module improvements.\n\nFixes #36",
   "user": {
     "login": "felix-baum",
     "id": 28109,

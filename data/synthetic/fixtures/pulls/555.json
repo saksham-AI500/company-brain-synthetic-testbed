@@ -3,7 +3,7 @@
   "number": 555,
   "state": "closed",
   "title": "perf(infra_deploy): update cert_manager.py",
-  "body": "Implementation changes for infra_deploy module improvements.",
+  "body": "Implementation changes for infra_deploy module improvements.\n\nCloses #73",
   "user": {
     "login": "zoe-kravitz",
     "id": 22925,

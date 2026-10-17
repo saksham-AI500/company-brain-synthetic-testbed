@@ -3,7 +3,7 @@
   "number": 307,
   "state": "closed",
   "title": "chore(notifications): update preferences.cpython-314.pyc",
-  "body": "Implementation changes for notifications module improvements.",
+  "body": "Implementation changes for notifications module improvements.\n\nCloses #46",
   "user": {
     "login": "gabriel-santos",
     "id": 29760,

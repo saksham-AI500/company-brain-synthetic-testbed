@@ -3,7 +3,7 @@
   "number": 245,
   "state": "closed",
   "title": "refactor(notifications): update batch_sender.py",
-  "body": "Implementation changes for notifications module improvements.",
+  "body": "Implementation changes for notifications module improvements.\n\nCloses #30",
   "user": {
     "login": "hassan-el-sayed",
     "id": 29279,

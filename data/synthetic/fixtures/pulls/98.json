@@ -3,7 +3,7 @@
   "number": 98,
   "state": "open",
   "title": "fix(search_indexer): update sharding.cpython-314.pyc",
-  "body": "Implementation changes for search_indexer module improvements.",
+  "body": "Implementation changes for search_indexer module improvements.\n\nFixes #121",
   "user": {
     "login": "fatima-zahra",
     "id": 21622,

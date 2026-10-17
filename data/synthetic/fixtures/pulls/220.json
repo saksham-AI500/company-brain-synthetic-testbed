@@ -3,7 +3,7 @@
   "number": 220,
   "state": "closed",
   "title": "feat(notifications): update circuit_breaker.py",
-  "body": "Implementation changes for notifications module improvements.",
+  "body": "Implementation changes for notifications module improvements.\n\nFixes #78",
   "user": {
     "login": "samir-patel",
     "id": 26341,

@@ -3,7 +3,7 @@
   "number": 114,
   "state": "closed",
   "title": "feat(auth/payments): integrate checkout session token validation",
-  "body": "Bridge auth session tokens with payments checkout verification flow.",
+  "body": "Bridge auth session tokens with payments checkout verification flow.\n\nFixes #6",
   "user": {
     "login": "ananya-rao",
     "id": 22649,

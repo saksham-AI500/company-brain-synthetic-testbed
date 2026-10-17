@@ -3,7 +3,7 @@
   "number": 260,
   "state": "closed",
   "title": "feat(search_indexer): update pipeline.py",
-  "body": "Implementation changes for search_indexer module improvements.",
+  "body": "Implementation changes for search_indexer module improvements.\n\nFixes #29",
   "user": {
     "login": "maya-lin",
     "id": 25395,

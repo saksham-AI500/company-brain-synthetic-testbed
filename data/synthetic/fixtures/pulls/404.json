@@ -3,7 +3,7 @@
   "number": 404,
   "state": "closed",
   "title": "fix(search): update README.md",
-  "body": "Implementation changes for search module improvements.",
+  "body": "Implementation changes for search module improvements.\n\nFixes #116",
   "user": {
     "login": "maya-lin",
     "id": 25395,

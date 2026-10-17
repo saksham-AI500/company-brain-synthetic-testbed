@@ -3,7 +3,7 @@
   "number": 277,
   "state": "closed",
   "title": "perf(payments_refunds): update batch.cpython-314.pyc",
-  "body": "Implementation changes for payments_refunds module improvements.",
+  "body": "Implementation changes for payments_refunds module improvements.\n\nCloses #9",
   "user": {
     "login": "leila-farah",
     "id": 23219,

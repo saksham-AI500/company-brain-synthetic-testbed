@@ -3,7 +3,7 @@
   "number": 227,
   "state": "open",
   "title": "chore(payments): update __init__.py",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nCloses #31",
   "user": {
     "login": "priya-sharma",
     "id": 25922,

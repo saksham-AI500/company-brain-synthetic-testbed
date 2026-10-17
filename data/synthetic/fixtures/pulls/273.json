@@ -3,7 +3,7 @@
   "number": 273,
   "state": "closed",
   "title": "refactor(growth_referrals): update payout_sync.py",
-  "body": "Implementation changes for growth_referrals module improvements.",
+  "body": "Implementation changes for growth_referrals module improvements.\n\nCloses #14",
   "user": {
     "login": "fatima-zahra",
     "id": 21622,

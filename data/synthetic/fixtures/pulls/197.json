@@ -3,7 +3,7 @@
   "number": 197,
   "state": "closed",
   "title": "test(payments): update paypal_client.cpython-314.pyc",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nCloses #123",
   "user": {
     "login": "dmitri-volkov",
     "id": 21585,

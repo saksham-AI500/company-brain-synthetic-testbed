@@ -3,7 +3,7 @@
   "number": 643,
   "state": "closed",
   "title": "feat(infra_observability): update correlation.cpython-314.pyc",
-  "body": "Implementation changes for infra_observability module improvements.",
+  "body": "Implementation changes for infra_observability module improvements.\n\nCloses #41",
   "user": {
     "login": "noah-kim",
     "id": 22560,

@@ -3,7 +3,7 @@
   "number": 628,
   "state": "closed",
   "title": "docs(payments): update rules_engine.py",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nFixes #130",
   "user": {
     "login": "chloe-bennett",
     "id": 28687,

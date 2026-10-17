@@ -3,7 +3,7 @@
   "number": 473,
   "state": "closed",
   "title": "test(infra_deploy): update __init__.py",
-  "body": "Implementation changes for infra_deploy module improvements.",
+  "body": "Implementation changes for infra_deploy module improvements.\n\nCloses #61",
   "user": {
     "login": "arjun-mehta",
     "id": 24836,

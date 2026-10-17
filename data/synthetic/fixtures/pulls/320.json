@@ -3,7 +3,7 @@
   "number": 320,
   "state": "closed",
   "title": "feat(growth_referrals): update leaderboard.cpython-314.pyc",
-  "body": "Implementation changes for growth_referrals module improvements.",
+  "body": "Implementation changes for growth_referrals module improvements.\n\nFixes #95",
   "user": {
     "login": "maya-zheng",
     "id": 21324,

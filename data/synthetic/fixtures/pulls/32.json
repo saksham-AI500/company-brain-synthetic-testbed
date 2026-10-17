@@ -3,7 +3,7 @@
   "number": 32,
   "state": "closed",
   "title": "chore(search_indexer): update inverted_index.cpython-314.pyc",
-  "body": "Implementation changes for search_indexer module improvements.",
+  "body": "Implementation changes for search_indexer module improvements.\n\nFixes #72",
   "user": {
     "login": "raj-kulkarni",
     "id": 28645,

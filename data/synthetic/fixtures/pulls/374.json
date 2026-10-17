@@ -3,7 +3,7 @@
   "number": 374,
   "state": "closed",
   "title": "fix(billing): update subscriptions.py",
-  "body": "Implementation changes for billing module improvements.",
+  "body": "Implementation changes for billing module improvements.\n\nFixes #92",
   "user": {
     "login": "ethan-hunt",
     "id": 29870,

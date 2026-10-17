@@ -3,7 +3,7 @@
   "number": 204,
   "state": "closed",
   "title": "docs(infra_observability): update query_latency.py",
-  "body": "Implementation changes for infra_observability module improvements.",
+  "body": "Implementation changes for infra_observability module improvements.\n\nFixes #86",
   "user": {
     "login": "mateo-silva",
     "id": 23467,

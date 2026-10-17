@@ -3,7 +3,7 @@
   "number": 68,
   "state": "closed",
   "title": "docs(auth): update backup_codes.cpython-314.pyc",
-  "body": "Implementation changes for auth module improvements.",
+  "body": "Implementation changes for auth module improvements.\n\nFixes #137",
   "user": {
     "login": "olivia-taylor",
     "id": 26814,

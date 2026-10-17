@@ -3,7 +3,7 @@
   "number": 62,
   "state": "closed",
   "title": "docs(notifications): update bounce_handler.cpython-314.pyc",
-  "body": "Implementation changes for notifications module improvements.",
+  "body": "Implementation changes for notifications module improvements.\n\nFixes #17",
   "user": {
     "login": "marcus-vance",
     "id": 24572,

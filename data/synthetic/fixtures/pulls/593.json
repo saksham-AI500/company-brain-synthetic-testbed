@@ -3,7 +3,7 @@
   "number": 593,
   "state": "closed",
   "title": "test(notifications): update metrics_notif.cpython-314.pyc",
-  "body": "Implementation changes for notifications module improvements.",
+  "body": "Implementation changes for notifications module improvements.\n\nCloses #127",
   "user": {
     "login": "caleb-rivers",
     "id": 29457,

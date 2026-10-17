@@ -3,7 +3,7 @@
   "number": 460,
   "state": "closed",
   "title": "feat(billing): update statement.cpython-314.pyc",
-  "body": "Implementation changes for billing module improvements.",
+  "body": "Implementation changes for billing module improvements.\n\nFixes #60",
   "user": {
     "login": "hassan-el-sayed",
     "id": 29279,

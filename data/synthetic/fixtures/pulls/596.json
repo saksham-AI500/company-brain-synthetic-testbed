@@ -3,7 +3,7 @@
   "number": 596,
   "state": "closed",
   "title": "feat(growth_experiments): update segmentation.py",
-  "body": "Implementation changes for growth_experiments module improvements.",
+  "body": "Implementation changes for growth_experiments module improvements.\n\nFixes #5",
   "user": {
     "login": "noah-kim",
     "id": 22560,

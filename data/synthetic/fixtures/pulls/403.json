@@ -3,7 +3,7 @@
   "number": 403,
   "state": "closed",
   "title": "perf(notifications): update preferences.cpython-314.pyc",
-  "body": "Implementation changes for notifications module improvements.",
+  "body": "Implementation changes for notifications module improvements.\n\nCloses #90",
   "user": {
     "login": "lucia-moretti",
     "id": 24125,

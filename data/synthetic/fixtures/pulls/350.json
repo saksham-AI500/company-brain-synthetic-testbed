@@ -3,7 +3,7 @@
   "number": 350,
   "state": "closed",
   "title": "feat(payments/auth): tokenized authorization for recurring subscriptions",
-  "body": "Cross-service validation between auth scopes and recurring payment profiles.",
+  "body": "Cross-service validation between auth scopes and recurring payment profiles.\n\nFixes #84",
   "user": {
     "login": "nora-al-mansoor",
     "id": 22304,

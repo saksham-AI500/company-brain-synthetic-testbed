@@ -3,7 +3,7 @@
   "number": 317,
   "state": "closed",
   "title": "chore(auth_mfa): update __init__.cpython-314.pyc",
-  "body": "Implementation changes for auth_mfa module improvements.",
+  "body": "Implementation changes for auth_mfa module improvements.\n\nCloses #4",
   "user": {
     "login": "raj-kulkarni",
     "id": 28645,

@@ -3,7 +3,7 @@
   "number": 161,
   "state": "closed",
   "title": "refactor(notifications): update dispatcher.py",
-  "body": "Implementation changes for notifications module improvements.",
+  "body": "Implementation changes for notifications module improvements.\n\nCloses #65",
   "user": {
     "login": "olivia-taylor",
     "id": 26814,

@@ -3,7 +3,7 @@
   "number": 386,
   "state": "closed",
   "title": "fix(billing): update revenue_recognition.cpython-314.pyc",
-  "body": "Implementation changes for billing module improvements.",
+  "body": "Implementation changes for billing module improvements.\n\nFixes #32",
   "user": {
     "login": "mila-jovanovic",
     "id": 20363,

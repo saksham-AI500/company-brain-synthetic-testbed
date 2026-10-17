@@ -3,7 +3,7 @@
   "number": 541,
   "state": "closed",
   "title": "docs(billing): update customer.cpython-314.pyc",
-  "body": "Implementation changes for billing module improvements.",
+  "body": "Implementation changes for billing module improvements.\n\nCloses #122",
   "user": {
     "login": "lina-kostas",
     "id": 26656,

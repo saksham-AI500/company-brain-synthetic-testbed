@@ -3,7 +3,7 @@
   "number": 118,
   "state": "closed",
   "title": "fix(infra_deploy): update secrets_loader.py",
-  "body": "Implementation changes for infra_deploy module improvements.",
+  "body": "Implementation changes for infra_deploy module improvements.\n\nFixes #115",
   "user": {
     "login": "samir-patel",
     "id": 26341,

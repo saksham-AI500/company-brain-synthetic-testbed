@@ -3,7 +3,7 @@
   "number": 207,
   "state": "closed",
   "title": "refactor(growth_experiments): update bandit.cpython-314.pyc",
-  "body": "Implementation changes for growth_experiments module improvements.",
+  "body": "Implementation changes for growth_experiments module improvements.\n\nCloses #11",
   "user": {
     "login": "tanya-popova",
     "id": 22022,

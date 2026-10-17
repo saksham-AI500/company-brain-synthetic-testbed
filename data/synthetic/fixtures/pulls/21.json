@@ -3,7 +3,7 @@
   "number": 21,
   "state": "closed",
   "title": "chore(payments): update batch.cpython-314.pyc",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nCloses #71",
   "user": {
     "login": "mateo-silva",
     "id": 23467,

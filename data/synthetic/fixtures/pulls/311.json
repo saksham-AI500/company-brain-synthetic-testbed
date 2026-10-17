@@ -3,7 +3,7 @@
   "number": 311,
   "state": "closed",
   "title": "fix(payments): update ledger.cpython-314.pyc",
-  "body": "Implementation changes for payments module improvements.",
+  "body": "Implementation changes for payments module improvements.\n\nCloses #34",
   "user": {
     "login": "hannah-schmidt",
     "id": 26508,

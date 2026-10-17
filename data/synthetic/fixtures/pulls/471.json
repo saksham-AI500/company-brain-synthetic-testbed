@@ -3,7 +3,7 @@
   "number": 471,
   "state": "closed",
   "title": "test(auth): update password.cpython-314.pyc",
-  "body": "Implementation changes for auth module improvements.",
+  "body": "Implementation changes for auth module improvements.\n\nCloses #120",
   "user": {
     "login": "leila-farah",
     "id": 23219,

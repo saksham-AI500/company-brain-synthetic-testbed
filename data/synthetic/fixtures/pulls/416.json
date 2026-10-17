@@ -3,7 +3,7 @@
   "number": 416,
   "state": "closed",
   "title": "refactor(search): update ranking.py",
-  "body": "Implementation changes for search module improvements.",
+  "body": "Implementation changes for search module improvements.\n\nFixes #19",
   "user": {
     "login": "ethan-hunt",
     "id": 29870,

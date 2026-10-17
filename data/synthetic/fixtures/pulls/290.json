@@ -3,7 +3,7 @@
   "number": 290,
   "state": "closed",
   "title": "chore(growth_experiments): update segmentation.py",
-  "body": "Implementation changes for growth_experiments module improvements.",
+  "body": "Implementation changes for growth_experiments module improvements.\n\nFixes #2",
   "user": {
     "login": "lucia-moretti",
     "id": 24125,

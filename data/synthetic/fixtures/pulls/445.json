@@ -3,7 +3,7 @@
   "number": 445,
   "state": "closed",
   "title": "perf(infra_observability): update disk_monitor.cpython-314.pyc",
-  "body": "Implementation changes for infra_observability module improvements.",
+  "body": "Implementation changes for infra_observability module improvements.\n\nCloses #25",
   "user": {
     "login": "zane-malik",
     "id": 26937,

@@ -3,7 +3,7 @@
   "number": 561,
   "state": "closed",
   "title": "fix(infra_deploy): update network_policy.cpython-314.pyc",
-  "body": "Implementation changes for infra_deploy module improvements.",
+  "body": "Implementation changes for infra_deploy module improvements.\n\nCloses #134",
   "user": {
     "login": "leila-farah",
     "id": 23219,

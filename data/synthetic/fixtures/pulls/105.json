@@ -3,7 +3,7 @@
   "number": 105,
   "state": "closed",
   "title": "fix(infra_observability): update profiler.py",
-  "body": "Implementation changes for infra_observability module improvements.",
+  "body": "Implementation changes for infra_observability module improvements.\n\nCloses #94",
   "user": {
     "login": "jordan-hayes",
     "id": 24658,

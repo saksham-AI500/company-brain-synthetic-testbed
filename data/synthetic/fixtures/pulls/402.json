@@ -3,7 +3,7 @@
   "number": 402,
   "state": "closed",
   "title": "docs(notifications): update preferences.cpython-314.pyc",
-  "body": "Implementation changes for notifications module improvements.",
+  "body": "Implementation changes for notifications module improvements.\n\nFixes #58",
   "user": {
     "login": "lina-kostas",
     "id": 26656,

@@ -3,7 +3,7 @@
   "number": 615,
   "state": "closed",
   "title": "refactor(auth): update totp.cpython-314.pyc",
-  "body": "Implementation changes for auth module improvements.",
+  "body": "Implementation changes for auth module improvements.\n\nCloses #82",
   "user": {
     "login": "mateo-silva",
     "id": 23467,

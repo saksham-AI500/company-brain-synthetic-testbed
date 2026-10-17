@@ -3,7 +3,7 @@
   "number": 22,
   "state": "closed",
   "title": "test(shared_utils): update collections_ext.py",
-  "body": "Implementation changes for shared_utils module improvements.",
+  "body": "Implementation changes for shared_utils module improvements.\n\nFixes #118",
   "user": {
     "login": "mila-jovanovic",
     "id": 20363,

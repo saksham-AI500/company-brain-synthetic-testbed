@@ -3,7 +3,7 @@
   "number": 542,
   "state": "closed",
   "title": "docs(infra_deploy): update README.md",
-  "body": "Implementation changes for infra_deploy module improvements.",
+  "body": "Implementation changes for infra_deploy module improvements.\n\nFixes #102",
   "user": {
     "login": "maya-lin",
     "id": 25395,

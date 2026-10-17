@@ -3,7 +3,7 @@
   "number": 427,
   "state": "closed",
   "title": "docs(growth_referrals): update referral_tracker.cpython-314.pyc",
-  "body": "Implementation changes for growth_referrals module improvements.",
+  "body": "Implementation changes for growth_referrals module improvements.\n\nCloses #57",
   "user": {
     "login": "maya-lin",
     "id": 25395,

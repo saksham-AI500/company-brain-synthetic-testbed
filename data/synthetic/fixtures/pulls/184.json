@@ -3,7 +3,7 @@
   "number": 184,
   "state": "closed",
   "title": "refactor(infra_deploy): update drain.py",
-  "body": "Implementation changes for infra_deploy module improvements.",
+  "body": "Implementation changes for infra_deploy module improvements.\n\nFixes #132",
   "user": {
     "login": "clara-oswald",
     "id": 20590,

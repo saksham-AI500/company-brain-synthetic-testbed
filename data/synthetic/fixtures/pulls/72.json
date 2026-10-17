@@ -3,7 +3,7 @@
   "number": 72,
   "state": "closed",
   "title": "test(auth_mfa): update README.md",
-  "body": "Implementation changes for auth_mfa module improvements.",
+  "body": "Implementation changes for auth_mfa module improvements.\n\nFixes #27",
   "user": {
     "login": "dmitri-volkov",
     "id": 21585,

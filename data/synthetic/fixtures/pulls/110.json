@@ -3,7 +3,7 @@
   "number": 110,
   "state": "closed",
   "title": "feat(auth_mfa): update totp.cpython-314.pyc",
-  "body": "Implementation changes for auth_mfa module improvements.",
+  "body": "Implementation changes for auth_mfa module improvements.\n\nFixes #108",
   "user": {
     "login": "dmitri-volkov",
     "id": 21585,

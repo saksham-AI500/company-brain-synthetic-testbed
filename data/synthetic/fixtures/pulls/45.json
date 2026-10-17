@@ -3,7 +3,7 @@
   "number": 45,
   "state": "closed",
   "title": "test(payments_refunds): update reconciliation.cpython-314.pyc",
-  "body": "Implementation changes for payments_refunds module improvements.",
+  "body": "Implementation changes for payments_refunds module improvements.\n\nCloses #129",
   "user": {
     "login": "fiona-gallagher",
     "id": 21807,
