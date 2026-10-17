@@ -153,6 +153,12 @@ def run_stage_4():
     issues = run_issues()
     print(f"Stage 4 complete: generated {len(issues)} issues with comments and links.\n")
 
+def run_stage_5():
+    print("=== RUNNING STAGE 5: Documentation Files ===")
+    from scripts.generate_docs import run as run_docs
+    docs = run_docs()
+    print(f"Stage 5 complete: generated {len(docs)} markdown documents.\n")
+
 if __name__ == "__main__":
     args = sys.argv[1:]
     if "--stage" in args:
@@ -166,6 +172,8 @@ if __name__ == "__main__":
             run_stage_3()
         elif stage == "4":
             run_stage_4()
+        elif stage == "5":
+            run_stage_5()
         else:
             print(f"Stage {stage} not yet implemented in standalone caller.")
     else:
@@ -173,3 +181,4 @@ if __name__ == "__main__":
         run_stage_2()
         run_stage_3()
         run_stage_4()
+        run_stage_5()
