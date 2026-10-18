@@ -235,7 +235,7 @@
       "question_id": "Q12",
       "group": "Group C: decisions",
       "question": "(sealed) Who made the logging decision, and where is the exact statement?",
-      "expected_answer": "ADR-0003 and ADR-0007 contradict each other. ADR-0003 (authored by Liam Chen, 2025-10-20): 'All services must emit structured JSON logs to stdout.' ADR-0007 (authored by Sophia Rossi, 2026-02-14): 'Logs must be streamed via OpenTelemetry OTLP over gRPC directly to the collector, bypassing stdout.' Both reported with authors, dates, and exact statements.",
+      "expected_answer": "ADR-0003 and ADR-0007 contradict each other. ADR-0003 (authored by Liam Chen, 2025-10-20): 'All services must log structured JSON objects strictly to standard output (`stdout`).' ADR-0007 (authored by Sophia Rossi, 2026-02-14): 'All production services must stream logs via OpenTelemetry OTLP over gRPC directly to the observability collector daemon, bypassing stdout.' Both reported with authors, dates, and exact statements.",
       "required_source_ids": [
         "doc:docs/adr/0003-structured-json-logging.md",
         "doc:docs/adr/0007-opentelemetry-grpc-logging.md"
