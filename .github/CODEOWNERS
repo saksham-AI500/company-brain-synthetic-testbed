@@ -13,7 +13,7 @@ payments/gateways/ @acme/payments marcus-vance
 payments/checkout.py @acme/payments
 billing/ @acme/payments
 billing/invoices/ @acme/payments
-search/ @acme/platform
+search/ @acme/growth
 search/indexer/ @acme/growth dmitri-volkov
 notifications/ @acme/growth
 notifications/templates/ @acme/growth
